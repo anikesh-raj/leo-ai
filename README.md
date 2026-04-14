@@ -1,6 +1,6 @@
 <div align="center">
 
-![LEO Neural OS Documentation Banner](./assets/docs_banner_updated.jpeg)
+![LEO Neural OS Documentation Banner]((https://ibb.co/YFXLyDdv))
 
 ## The Autonomous Neural OS Agent
 
